@@ -1,4 +1,4 @@
-# Rainfall-Prediction-using-ML-
+# Rainfall Prediction using ML
 
 Dataset link : https://www.kaggle.com/code/yashparab/rainfall-prediction-using-machine-learning/input
 
